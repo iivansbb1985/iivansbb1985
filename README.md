@@ -10,3 +10,8 @@
     <img align="center" alt="Iv-Python" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     
 <div>
+## 
+</div>
+     <a href="https://www.linkedin.com/in/ivan-barbosa-98065618a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin" target="_blank"></a>
+
+ <div>
